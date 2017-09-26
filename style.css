@@ -1,1 +1,4 @@
-body {background: efefef;}
+body {background: efefef; margin: 0; padding: 0;}
+
+/*структура*/
+div.header{height: 100px; background: #101417;}
