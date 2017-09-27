@@ -2,7 +2,8 @@ body {background: ffcccc; margin: 0; padding: 0;}
 
 /*structure*/
 div.mid{width: 1200px; margin: 0 auto;}
-div.header{height: 40px; background: #6633ff;}
+div.header{height: 100 px; background: #6633ff;}
 
 /*hat*/
-div.topmenu{float: right; height: 40 px}
+div.mid{ text-align:center;}
+div.img{text-align:center;}
