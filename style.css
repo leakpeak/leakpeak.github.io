@@ -2,7 +2,7 @@ body {background: ffcccc; margin: 0; padding: 0;}
 
 /*structure*/
 div.mid{width: 1200px; margin: 0 auto;}
-div.header{height: 40px; background: #0000ff;}
+div.header{height: 40px; background: #6633ff;}
 
 /*hat*/
 div.topmenu{float: right; height: 40 px}
