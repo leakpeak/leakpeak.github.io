@@ -1,4 +1,8 @@
-body {background: efefef; margin: 0; padding: 0;}
+body {background: ffcccc; margin: 0; padding: 0;}
 
-/*структура*/
-div.header{height: 40px; background: #101417;}
+/*structure*/
+div.mid{width: 1200px; margin: 0 auto;}
+div.header{height: 40px; background: #6633ff;}
+
+/*hat*/
+div.topmenu{float: right; height: 40 px}
