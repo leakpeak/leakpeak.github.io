@@ -29,7 +29,7 @@ h3 { font-size:12px; line-height:14px; text-transform: uppercase; color:#000; }
 h4 { font-size:12px; line-height:14px; text-transform: uppercase; color:#000; }
 
 
-h1#logo { font-size:0; line-height:0; width:156px; height:64px; float:left; }
+h1#logo { font-size:0; line-height:0; width:300px; height:64px; float:left; }
 h1#logo a{ display:block; height:64px; text-indent: -4000px; background:url(images/logo.png); }
 
 .shell { width:960px; margin:0 auto; padding:10px; background:#fff; }
@@ -39,7 +39,7 @@ h1#logo a{ display:block; height:64px; text-indent: -4000px; background:url(imag
 #navigation { float:right; white-space:nowrap; }
 #navigation ul{ list-style-type: none; height:64px; font-weight: bold; float:left;}
 #navigation ul li{ float:left; display:inline; }
-#navigation ul li a{ float:left; height:64px; line-height:64px; text-decoration: none; color:#fff; padding:0 15px;}
+#navigation ul li a{ float:left; height:64px; line-height:64px; text-decoration: none; color:#fff; padding:0 10px;}
 #navigation ul li a.active,
 #navigation ul li a:hover{ background:#fff; color:#8b0000; }
 
@@ -79,7 +79,7 @@ a.bul { background:url(images/bul.gif) no-repeat 0 center; padding-left:10px;}
 .categories ul li a:hover{ color:#8b0000; }
 
 #slider { height:252px; position:relative; overflow:hidden; }
-#slider-holder { width:720px; height:252px; position:relative; overflow:hidden; }
+#slider-holder { width:750px; height:252px; position:relative; overflow:hidden; }
 #slider-holder .jcarousel-clip{ width:720px; height:252px; position:relative; overflow:hidden; }
 #slider-holder ul{ width:720px; height:252px; position:relative; overflow:hidden; list-style-type: none;}
 #slider-holder ul li{ width:720px; height:252px; position:relative; overflow:hidden; float:left; }
