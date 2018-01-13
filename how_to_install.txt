@@ -1,0 +1,27 @@
+1. Upload files from "upload" to your hosting web directory.
+2. Go to yoursite/install.php and fill all the inputs.
+3. Press save.
+4. ???
+5. PROFIT!!!
+
+
+Go to youfaucet.com/admin 
+Default username and password: admin admin
+Set up your faucet details and api keys in settings area.
+
+Or use this instructions (screens provided):
+http://coinadia.com/faucetcms-faucet-script-just-faucet/
+Very thanks to DevRawl!
+
+You're done!
+
+-----------------NOTE---------------------------
+If you want to reinstall your faucet fresh, remove all files and copy them once again and clean database.
+-------------------------------------------------
+
+Please, report about bugs or strange behaviour. Of course free asking questions or support!
+support@deep64.com
+
+Note: key files are crypted, so some hostings can mistakenly identify them as suspicious. Don't worry about that.
+Note: script is free, but takes small fee for every claim. From 3 satoshi per claim (if claim amount <100 satoshi) to 6 satoshi (for amount bigger than 200 satoshi).
+To get version without fee, please contact me - support@deep64.com

@@ -1,0 +1,83 @@
+[17-Apr-2017 21:36:44 UTC] PHP Fatal error:  require_once(): Failed opening required '/../layout/admin_header.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/deepcom/public_html/faucet/application/views/admin/admin_main.php on line 2
+[17-Apr-2017 21:37:31 UTC] PHP Fatal error:  require_once(): Failed opening required 'layout/admin_header.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/deepcom/public_html/faucet/application/views/admin/admin_main.php on line 2
+[17-Apr-2017 21:37:42 UTC] PHP Fatal error:  require_once(): Failed opening required '/layout/admin_header.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/deepcom/public_html/faucet/application/views/admin/admin_main.php on line 2
+[17-Apr-2017 21:38:46 UTC] PHP Fatal error:  require_once(): Failed opening required '/../layout/admin_header.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/deepcom/public_html/faucet/application/views/admin/claims.php on line 2
+[17-Apr-2017 21:50:37 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/deepcom/public_html/faucet/application/libraries/messages.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/deepcom/public_html/faucet/application/views/layout/messages.php on line 3
+[18-Apr-2017 00:25:06 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/deepcom/public_html/faucet/system/core/compat/mbstring.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/deepcom/public_html/faucet/system/core/CodeIgniter.php on line 287
+[18-Apr-2017 13:28:35 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/deepcom/public_html/faucet/application/controllers/Claim.php on line 27
+[18-Apr-2017 13:28:35 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/deepcom/public_html/faucet/application/controllers/Claim.php on line 27
+[18-Apr-2017 13:32:14 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/deepcom/public_html/faucet/application/controllers/Ban.php on line 27
+[18-Apr-2017 13:32:39 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/deepcom/public_html/faucet/application/controllers/Ban.php on line 17
+[19-Apr-2017 14:17:20 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/deepcom/public_html/faucet/application/libraries/messages.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/deepcom/public_html/faucet/application/views/layout/messages.php on line 3
+[19-Apr-2017 17:30:27 UTC] PHP Fatal error:  Call to undefined method User::add_banned() in /home/deepcom/public_html/faucet/application/controllers/Ban.php on line 17
+[19-Apr-2017 17:31:43 UTC] PHP Fatal error:  Call to undefined method User::add_banned() in /home/deepcom/public_html/faucet/application/controllers/Ban.php on line 17
+[20-Apr-2017 23:25:18 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/deepcom/public_html/faucet/application/models/Core.php on line 74
+[21-Apr-2017 01:35:26 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/deepcom/public_html/faucet/application/models/Core.php on line 114
+[04-Aug-2017 09:36:17 UTC] PHP Fatal error:  Call to a member function getBalance() on a non-object in /home/deepcom/public_html/faucet/application/controllers/Page.php on line 16
+[04-Aug-2017 09:36:20 UTC] PHP Fatal error:  Call to a member function getBalance() on a non-object in /home/deepcom/public_html/faucet/application/controllers/Page.php on line 16
+[16-Aug-2017 19:37:19 UTC] PHP Fatal error:  Call to a member function send() on a non-object in /home/deepcom/public_html/faucet/application/models/Core.php on line 130
+[16-Aug-2017 19:37:25 UTC] PHP Fatal error:  Call to a member function send() on a non-object in /home/deepcom/public_html/faucet/application/models/Core.php on line 130
+[16-Aug-2017 19:37:27 UTC] PHP Fatal error:  Call to a member function send() on a non-object in /home/deepcom/public_html/faucet/application/models/Core.php on line 130
+[16-Aug-2017 19:37:50 UTC] PHP Fatal error:  Call to a member function send() on a non-object in /home/deepcom/public_html/faucet/application/models/Core.php on line 130
+[16-Aug-2017 19:37:59 UTC] PHP Fatal error:  Call to a member function send() on a non-object in /home/deepcom/public_html/faucet/application/models/Core.php on line 130
+[16-Aug-2017 19:38:16 UTC] PHP Fatal error:  Call to a member function send() on a non-object in /home/deepcom/public_html/faucet/application/models/Core.php on line 130
+[18-Aug-2017 10:17:59 UTC] PHP Fatal error:  Call to a member function send() on a non-object in /home/deepcom/public_html/faucet/application/models/Core.php on line 130
+[28-Dec-2017 11:46:03 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/deepcom/test.deep64.com/system/core/compat/mbstring.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/system/core/CodeIgniter.php on line 287
+[28-Dec-2017 11:46:04 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/deepcom/test.deep64.com/system/core/compat/mbstring.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/system/core/CodeIgniter.php on line 287
+[28-Dec-2017 11:48:42 UTC] PHP Warning:  require_once(siteurl.php): failed to open stream: No such file or directory in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:48:42 UTC] PHP Fatal error:  require_once(): Failed opening required 'siteurl.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:49:37 UTC] PHP Warning:  require_once(siteurl.php): failed to open stream: No such file or directory in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:49:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'siteurl.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:49:54 UTC] PHP Warning:  require_once(siteurl.php): failed to open stream: No such file or directory in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:49:54 UTC] PHP Fatal error:  require_once(): Failed opening required 'siteurl.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:49:55 UTC] PHP Warning:  require_once(siteurl.php): failed to open stream: No such file or directory in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:49:55 UTC] PHP Fatal error:  require_once(): Failed opening required 'siteurl.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:49:56 UTC] PHP Warning:  require_once(siteurl.php): failed to open stream: No such file or directory in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:49:56 UTC] PHP Fatal error:  require_once(): Failed opening required 'siteurl.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:49:56 UTC] PHP Warning:  require_once(siteurl.php): failed to open stream: No such file or directory in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:49:56 UTC] PHP Fatal error:  require_once(): Failed opening required 'siteurl.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:49:57 UTC] PHP Warning:  require_once(siteurl.php): failed to open stream: No such file or directory in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:49:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'siteurl.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:49:57 UTC] PHP Warning:  require_once(siteurl.php): failed to open stream: No such file or directory in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:49:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'siteurl.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:50:09 UTC] PHP Warning:  require_once(siteurl.php): failed to open stream: No such file or directory in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:50:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'siteurl.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:50:09 UTC] PHP Warning:  require_once(siteurl.php): failed to open stream: No such file or directory in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:50:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'siteurl.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:50:45 UTC] PHP Warning:  require_once(siteurl.php): failed to open stream: No such file or directory in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:50:45 UTC] PHP Fatal error:  require_once(): Failed opening required 'siteurl.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:50:46 UTC] PHP Warning:  require_once(siteurl.php): failed to open stream: No such file or directory in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:50:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'siteurl.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:50:59 UTC] PHP Warning:  require_once(siteurl.php): failed to open stream: No such file or directory in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:50:59 UTC] PHP Fatal error:  require_once(): Failed opening required 'siteurl.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:51:03 UTC] PHP Warning:  require_once(siteurl.php): failed to open stream: No such file or directory in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:51:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'siteurl.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:51:04 UTC] PHP Warning:  require_once(siteurl.php): failed to open stream: No such file or directory in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:51:04 UTC] PHP Fatal error:  require_once(): Failed opening required 'siteurl.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:51:04 UTC] PHP Warning:  require_once(siteurl.php): failed to open stream: No such file or directory in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:51:04 UTC] PHP Fatal error:  require_once(): Failed opening required 'siteurl.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:51:16 UTC] PHP Warning:  require_once(siteurl.php): failed to open stream: No such file or directory in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:51:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'siteurl.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:51:17 UTC] PHP Warning:  require_once(siteurl.php): failed to open stream: No such file or directory in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:51:17 UTC] PHP Fatal error:  require_once(): Failed opening required 'siteurl.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:51:18 UTC] PHP Warning:  require_once(siteurl.php): failed to open stream: No such file or directory in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:51:18 UTC] PHP Fatal error:  require_once(): Failed opening required 'siteurl.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:51:18 UTC] PHP Warning:  require_once(siteurl.php): failed to open stream: No such file or directory in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:51:18 UTC] PHP Fatal error:  require_once(): Failed opening required 'siteurl.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:51:19 UTC] PHP Warning:  require_once(siteurl.php): failed to open stream: No such file or directory in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:51:19 UTC] PHP Fatal error:  require_once(): Failed opening required 'siteurl.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:51:19 UTC] PHP Warning:  require_once(siteurl.php): failed to open stream: No such file or directory in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:51:19 UTC] PHP Fatal error:  require_once(): Failed opening required 'siteurl.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:51:19 UTC] PHP Warning:  require_once(siteurl.php): failed to open stream: No such file or directory in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 11:51:19 UTC] PHP Fatal error:  require_once(): Failed opening required 'siteurl.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/deepcom/test.deep64.com/application/config/config.php on line 17
+[28-Dec-2017 12:10:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'deepcom_fauc'@'localhost' (using password: YES) in /home/deepcom/test.deep64.com/install_proceed.php:25
+Stack trace:
+#0 /home/deepcom/test.deep64.com/install_proceed.php(25): PDO->__construct('mysql:host=loca...', 'deepcom_fauc', 'kissmyass249', Array)
+#1 {main}
+  thrown in /home/deepcom/test.deep64.com/install_proceed.php on line 25
+[28-Dec-2017 12:12:14 UTC] PHP Warning:  file_get_contents(database.sql): failed to open stream: No such file or directory in /home/deepcom/test.deep64.com/install_proceed.php on line 27
+[28-Dec-2017 12:12:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: trying to execute an empty query in /home/deepcom/test.deep64.com/install_proceed.php:28
+Stack trace:
+#0 /home/deepcom/test.deep64.com/install_proceed.php(28): PDO->exec('')
+#1 {main}
+  thrown in /home/deepcom/test.deep64.com/install_proceed.php on line 28

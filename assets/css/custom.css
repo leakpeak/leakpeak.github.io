@@ -1,0 +1,21 @@
+.settings .form-group .fa{
+    color: #3279a2;
+    float: right;
+    margin: 5px 0 0 0;
+}
+.settings .box-header .fa{
+    color: #3279a2;
+    float: right;
+    margin: 5px 0 0 0;
+}
+.user-actions form{
+    float: left;
+    margin: 0 20px 0 0;
+}
+.search_param{
+    display: none;
+}
+.main-footer{
+    background: #ECF0F5;
+    border: none;
+}
